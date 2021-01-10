@@ -1,0 +1,166 @@
+textureAtlas.png
+size: 3960, 2016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+combo0
+  rotate: false
+  xy: 0, 0
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo1
+  rotate: false
+  xy: 990, 0
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo2
+  rotate: false
+  xy: 1980, 0
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo3
+  rotate: false
+  xy: 2970, 0
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo4
+  rotate: false
+  xy: 0, 336
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo5
+  rotate: false
+  xy: 990, 336
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo6
+  rotate: false
+  xy: 1980, 336
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo7
+  rotate: false
+  xy: 2970, 336
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo8
+  rotate: false
+  xy: 0, 672
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo10
+  rotate: false
+  xy: 990, 672
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo11
+  rotate: false
+  xy: 1980, 672
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo12
+  rotate: false
+  xy: 2970, 672
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo13
+  rotate: false
+  xy: 0, 1008
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo14
+  rotate: false
+  xy: 990, 1008
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo15
+  rotate: false
+  xy: 1980, 1008
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo16
+  rotate: false
+  xy: 2970, 1008
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo17
+  rotate: false
+  xy: 0, 1344
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo18
+  rotate: false
+  xy: 990, 1344
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo19
+  rotate: false
+  xy: 1980, 1344
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo20
+  rotate: false
+  xy: 2970, 1344
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo21
+  rotate: false
+  xy: 0, 1680
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo22
+  rotate: false
+  xy: 990, 1680
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
+combo23
+  rotate: false
+  xy: 1980, 1680
+  size: 990, 336
+  orig: 990, 336
+  offset: 0, 0
+  index: -1
